@@ -1,0 +1,2 @@
+Project to show different techniques of interaction (behavior) testing using different tools.
+Currently Rhino.Mocks will be used as a baseline and FakeItEasy and NSubstitute will be matched against.
